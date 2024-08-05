@@ -21,7 +21,7 @@ Install Python,pip and pipenv (`pip install pipenv`).
 Clone this repository.
 
 ```bash
-  git clone https://github.com/PyroSama07/alignMe.git
+  git clone https://github.com/TEJ-416/alignMe.git
 ```
 
 Install the required packages for the project.
